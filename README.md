@@ -7,7 +7,7 @@
 - 📫 How to reach me: 
 -      twitter- https://twitter.com/JivanBhardwaj05
 -      linkedin- https://www.linkedin.com/in/jivanbhardwaj/
--      Whatsapp - 8756780182
+-      Whatsapp - +918756780182
 
 <!--
 **jivanbhardwaj/jivanbhardwaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
