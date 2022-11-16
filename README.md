@@ -5,9 +5,9 @@ My name is Jivan Bhardwaj
 
 - 🌱 **I’m currently learning Ansible and terraform.**
 - 👯 **I’m looking to collaborate on DevOps Project.**
-- 🤔 **I’m looking for help with doubt resolve.**
+- 🤔 **I’m looking for help with doubt get resolve.**
 - 💬 **Ask me about DevOps tools.**
-- 📫 **How to reach me: **
+- 📫 **How to reach me:**
 -      twitter- https://twitter.com/JivanBhardwaj05
 -      linkedin- https://www.linkedin.com/in/jivanbhardwaj/
 -      Whatsapp - +918756780182
