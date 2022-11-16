@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi there 👋, My name is Jivan Bhardwaj 
+#### I am a DevOps Engineer. 
+![I am a DevOps Engineer. ](https://pbs.twimg.com/profile_banners/1587388960409804800/1667300644/1500x500)
+
+I work on DevOps tools and Technology.
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
+
 
 - 🔭 I’m currently working on DevOps Field.
 - 🌱 I’m currently learning Ansible and terraform.
