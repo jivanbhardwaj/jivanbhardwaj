@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jivan Bhardwaj</h1>
 <h3 align="center">A passionate DevOps and Cloud engineer from India,</h3>
-<img align="right" alt="Coding" width="400" src="https://itchronicles.com/wp-content/uploads/2020/08/devops-questions.jpg")
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer_still_2x.gif?compress=1&resize=400x300")
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jivanbhardwaj&label=Profile%20views&color=0e75b6&style=flat" alt="jivanbhardwaj" /> </p>
