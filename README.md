@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **DevOps and Cloud**
 
-- 📫 How to reach me **Tweeter- @jivanbhardwaj05 Email- jivan.6b@gmail.com**
+- 📫 How to reach me **Email- jivan.6b@gmail.com**
 
 - ⚡ Fun fact **I'm so intelligent with stupidity 😊**
 
