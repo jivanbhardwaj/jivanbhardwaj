@@ -7,10 +7,7 @@ My name is Jivan Bhardwaj
 - 👯 **I’m looking to collaborate on DevOps Project.**
 - 🤔 **I’m looking for help with doubt get resolve.**
 - 💬 **Ask me about DevOps tools.**
-- 📫 **How to reach me:**
--      twitter- https://twitter.com/JivanBhardwaj05
--      linkedin- https://www.linkedin.com/in/jivanbhardwaj/
--      Whatsapp - +918756780182
+- 📫 How to reach me: [Twiiter- https://twitter.com/JivanBhardwaj05](Twiiter-%20https://twitter.com/JivanBhardwaj05)
 
 <!--
 **jivanbhardwaj/jivanbhardwaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
