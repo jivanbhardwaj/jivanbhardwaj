@@ -8,6 +8,8 @@ My name is Jivan Bhardwaj
 - 🤔 **I’m looking for help with doubt get resolve.**
 - 💬 **Ask me about DevOps tools.**
 - 📫 How to reach me: [Tweeter- @JivanBhardwaj05](Tweeter-%20@JivanBhardwaj05)
+https://github-readme-stats.vercel.app/api?username=jivanbhardwaj&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
+
 <!--
 **jivanbhardwaj/jivanbhardwaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
