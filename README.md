@@ -1,7 +1,6 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fharness.io%2Fblog%2Fdevops-snapshot&psig=AOvVaw3g0GoGjmmKFPjl28bNDVpS&ust=1668843977811000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOCzmrWet_sCFQAAAAAdAAAAABAJ)]
 <h1 align="center">Hi 👋, I'm Jivan Bhardwaj</h1>
 <h3 align="center">A passionate DevOps and Cloud engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.koombea.com%2Fblog%2Fwhat-is-a-devops-engineer%2F&psig=AOvVaw0XE1MzTG0eeokYWHnG_wb2&ust=1668840409613000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKC37o-Rt_sCFQAAAAAdAAAAABAF")
+<img align="right" alt="Coding" width="400" src="3eb46242aad791aefa762d89a01f631aa5c09f1c73c3bae55df33bcaaa769c33caeea5adbc48")
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jivanbhardwaj&label=Profile%20views&color=0e75b6&style=flat" alt="jivanbhardwaj" /> </p>
