@@ -38,7 +38,7 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jivanbhardwaj&show_icons=true&locale=en" alt="jivanbhardwaj" /></p>
 
-<p><img align="left" style="background-color:DodgerBlue" src="https://github-readme-stats.vercel.app/api/top-langs?username=jivanbhardwaj&show_icons=true&locale=en&layout=compact" alt="jivanbhardwaj" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jivanbhardwaj&show_icons=true&locale=en&layout=compact" alt="jivanbhardwaj" /></p>
 
 
 
