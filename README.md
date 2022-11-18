@@ -10,15 +10,15 @@
 
 - 🔭 I’m currently working on **DevOps Tools**
 
-- 🌱 I’m currently learning **AWS,Ansible,Terraform,Docker**
+- 🌱 I’m currently learning **AWS,Ansible,Terraform,Docker And Almost All DevOps Tools**
 
 - 👯 I’m looking to collaborate on **DevOps Project**
 
 - 🤝 I’m looking for help with **AWS Certification**
 
-- 📝 I regularly write articles on [Tweeter - @jivanbhardwaj05](Tweeter - @jivanbhardwaj05)
+- 📝 I regularly write articles on [Tweeter - @jivanbhardwaj05]
 
-- 💬 Ask me about **DevOps and Cloud**
+- 💬 Ask me about **DevOps and Cloud Technology**
 
 - 📫 How to reach me **Email- jivan.6b@gmail.com**
 
