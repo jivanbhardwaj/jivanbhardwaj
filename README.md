@@ -1,4 +1,4 @@
-[![MasterHead](https://services.harman.com/Blogs/PublishingImages/agile_blogbanner_0.jpg]
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
 <h1 align="center">Hi 👋, I'm Jivan Bhardwaj</h1>
 <h3 align="center">A passionate DevOps and Cloud engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.koombea.com%2Fblog%2Fwhat-is-a-devops-engineer%2F&psig=AOvVaw0XE1MzTG0eeokYWHnG_wb2&ust=1668840409613000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKC37o-Rt_sCFQAAAAAdAAAAABAF")
