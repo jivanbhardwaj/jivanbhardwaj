@@ -4,6 +4,7 @@
 <div align="center">
 [Email Me](mailto:jivan.6b@.com)
 </div>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer_still_2x.gif?compress=1&resize=400x300")
 
 
