@@ -36,7 +36,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jivanbhardwaj&theme=dark)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jivanbhardwaj&show_icons=true&theme=radical) 
-<div class="stats" align="right">
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammingGym&layout=compact&show_icons=true&theme=algolia&border_radius=20)
-</div>
+![Jivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jivanbhardwaj&show_icons=true&theme=radical) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammingGym&layout=compact&show_icons=true&theme=algolia&border_radius=20)
