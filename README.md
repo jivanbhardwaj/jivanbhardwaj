@@ -36,7 +36,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jivanbhardwaj&theme=dark)](https://git.io/streak-stats)
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jivanbhardwaj&show_icons=true&locale=en" alt="jivanbhardwaj" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jivanbhardwaj&show_icons=true&theme=radical)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jivanbhardwaj&show_icons=true&locale=en&layout=compact" alt="jivanbhardwaj" /></p>
 
 
