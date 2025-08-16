@@ -9,25 +9,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jivanbhardwaj&label=Profile%20views&color=0e75b6&style=flat" alt="jivanbhardwaj" /> </p>
 <p align="left"> <a href="https://twitter.com/jivanbhardwaj05" target="blank"><img src="https://img.shields.io/twitter/follow/jivanbhardwaj05?logo=twitter&style=for-the-badge" alt="jivanbhardwaj05" /></a> </p>
 
-- 🔭 Hands-on experience with: 
-Kubernetes | Helm Charts | Apache Kafka
-
-Terraform | MinIO | AWS ECR, EKS, S3, RDS, CloudWatch
-
-AWS CodeCommit | ArgoCD | CI/CD pipelines  **
+- 🔭 Hands-on experience with: ** Kubernetes | Helm Charts | Apache Kafka | Terraform | MinIO | AWS ECR, EKS, S3, RDS, CloudWatch | AWS CodeCommit | ArgoCD | CI/CD pipelines  **
 
 - 🌱 I’m currently learning **AWS,Ansible,Terraform,Docker And Almost All DevOps Tools**
 
 - 👯 Looking to collaborate on: **DevOps & Cloud Native Projects**
 
-- 🤝 urrently focusing on:
-**AWS Certifications
-
-Kubernetes Certification
-
-Advanced DevOps Practices
-
-Strengthening Problem-Solving skills with DSA & Algorithms in C++ **
+- 🤝 Currently focusing on:
+**AWS Certifications | Kubernetes Certification | Advanced DevOps Practices | Strengthening Problem-Solving skills with DSA & Algorithms in C++ **
 
 - 📝 I regularly write articles on [Tweeter - @jivanbhardwaj05]
 
