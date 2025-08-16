@@ -1,6 +1,6 @@
 ![MasterHead](https://pbs.twimg.com/media/Fh2GdP3VQAAqvRt?format=jpg&name=900x900)
-<h1 align="center">Hi 👋, I'm Jivan Bhardwaj</h1>
-<h3 align="center"> ** A passionate DevOps and Cloud engineer from India ** </h3>
+<h1 align="center">Hi, I'm Jivan – DevOps Engineer</h1>
+<h3 align="center"> ** Currently working on: Building and managing DevOps solutions across Cloud & Infrastructure ** </h3>
 <div align="center">
 
 [**E-mail Me -📧**](mailto:jivan.6b@gmail.com)
@@ -9,21 +9,33 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jivanbhardwaj&label=Profile%20views&color=0e75b6&style=flat" alt="jivanbhardwaj" /> </p>
 <p align="left"> <a href="https://twitter.com/jivanbhardwaj05" target="blank"><img src="https://img.shields.io/twitter/follow/jivanbhardwaj05?logo=twitter&style=for-the-badge" alt="jivanbhardwaj05" /></a> </p>
 
-- 🔭 I’m currently working on **DevOps Tools**
+- 🔭 Hands-on experience with: 
+Kubernetes | Helm Charts | Apache Kafka
+
+Terraform | MinIO | AWS ECR, EKS, S3, RDS, CloudWatch
+
+AWS CodeCommit | ArgoCD | CI/CD pipelines  **
 
 - 🌱 I’m currently learning **AWS,Ansible,Terraform,Docker And Almost All DevOps Tools**
 
-- 👯 I’m looking to collaborate on **DevOps Project**
+- 👯 Looking to collaborate on: **DevOps & Cloud Native Projects**
 
-- 🤝 I’m looking for help with **AWS Certification**
+- 🤝 urrently focusing on:
+**AWS Certifications
+
+Kubernetes Certification
+
+Advanced DevOps Practices
+
+Strengthening Problem-Solving skills with DSA & Algorithms in C++ **
 
 - 📝 I regularly write articles on [Tweeter - @jivanbhardwaj05]
 
-- 💬 Ask me about **DevOps and Cloud Technology**
+- 💬 Ask me about **DevOps | Kubernetes | AWS | Cloud Automation | DSA & Algorithms (C++)**
 
 - 📫 How to reach me **Email- jivan.6b@gmail.com**
 
-- ⚡ Fun fact **I'm so intelligent with stupidity 😊**
+- ⚡ Fun fact **I break things just to fix them better 😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
