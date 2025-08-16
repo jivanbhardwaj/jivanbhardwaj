@@ -11,7 +11,7 @@
 
 - 🔭 Hands-on experience with: ** Kubernetes | Helm Charts | Apache Kafka | Terraform | MinIO | AWS ECR, EKS, S3, RDS, CloudWatch | AWS CodeCommit | ArgoCD | CI/CD pipelines  **
 
-- 🌱 I’m currently learning **AWS,Ansible,Terraform,Docker And Almost All DevOps Tools**
+- 🌱 Focusing on: ** DevOps + DSA/Algo **
 
 - 👯 Looking to collaborate on: **DevOps & Cloud Native Projects**
 
